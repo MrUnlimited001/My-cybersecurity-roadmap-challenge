@@ -1,10 +1,11 @@
-🖧 Week 2: Networking Basics
+## 🖧 Week 2: Networking Basics
+
 Welcome to Week 2 of my 90-Day Cybersecurity Roadmap Challenge 🚀
 This week focuses on networking fundamentals, exploring IP addressing, ports, protocols, and packet analysis.
 
-📆 Daily Breakdown
+##📆 Daily Breakdown
 
-📅 Day 8:
+ ##📅 Day 8:
 Goal: Learn IP, MAC, Subnetting Basics
 
 Watched 3 YouTube crash courses on IP, MAC, and subnetting.
