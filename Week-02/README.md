@@ -91,7 +91,7 @@ Goal: Learn Netcat Basics (nc, port scanning)
 
 ---
 
-## Summary Of What I Learned
+## ✅️ Summary Of What I Learned
 - IP, MAC, Subnetting Basics
 - Use of ifconfig, ip a, ping and traceroute (Network Commands)
 - TCP vs UDP, Ports & Services
@@ -101,6 +101,10 @@ Goal: Learn Netcat Basics (nc, port scanning)
 
 ---
 
-
-
-
+## 🎯 Goals For Next Week 
+- Install Python,  run "Hello World"
+- Learn variables, loops, conditionals. 
+- Learn Python functions + file handling.
+- Write a script: a portfolio scanner (use socket library).
+- Install Git, push your scripts + notes to GitHub.
+- Do OverTheWire Bandit Levels 11-15.
