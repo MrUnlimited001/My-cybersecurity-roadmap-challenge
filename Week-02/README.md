@@ -89,4 +89,18 @@ Goal: Learn Netcat Basics (nc, port scanning)
 - ✅ Strengthened understanding of IP, MAC, TCP/UDP, and ports
 - ✅ Successfully completed Bandit levels 6–10
 
+---
+
+## Summary Of What I Learned
+- IP, MAC, Subnetting Basics
+- Use of ifconfig, ip a, ping and traceroute (Network Commands)
+- TCP vs UDP, Ports & Services
+- Wireshark Installation, Capturing some packets (DNS, HTTP)
+- OverTheWire Bandit (Levels 6–10).
+-  Netcat Basics (nc, port scanning)
+
+---
+
+
+
 
