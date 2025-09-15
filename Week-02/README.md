@@ -6,7 +6,7 @@ This week focuses on networking fundamentals, exploring IP addressing, ports, pr
 ## 📆 Daily Breakdown
 ---
 
-###📅 Day 8:
+### 📅 Day 8:
 Goal: Learn IP, MAC, Subnetting Basics
 
 - Watched 3 YouTube crash courses on IP, MAC, and subnetting.
@@ -16,7 +16,7 @@ Goal: Learn IP, MAC, Subnetting Basics
   
 ---
 
-###📅 Day 9:
+### 📅 Day 9:
 Goal: Learn use of ifconfig, ip a, ping and traceroute (Network Commands)
 
 Practiced:
@@ -27,7 +27,7 @@ Practiced:
   
 ---
 
-###📅 Day 10:
+### 📅 Day 10:
 Goal: Learn TCP vs UDP, Ports & Services
 
 - Watched a YouTube video on transport layer protocols.
@@ -37,7 +37,7 @@ Goal: Learn TCP vs UDP, Ports & Services
 
 ---
 
-###📅 Day 11:
+### 📅 Day 11:
 Goal: Install Wireshark, Capture some packets (observe DNS, HTTP)
 
 - Installed Wireshark.
@@ -48,7 +48,7 @@ Goal: Install Wireshark, Capture some packets (observe DNS, HTTP)
 
 ---
 
-###📅 Day 12:
+### 📅 Day 12:
 Goal: Do OverTheWire Bandit (Levels 6–10).
 
 - Had to repeat Bandit levels 0 to 5, since I didn't save the passwords.
@@ -57,7 +57,7 @@ Goal: Do OverTheWire Bandit (Levels 6–10).
 
 ---
 
-###📅 Day 13:
+### 📅 Day 13:
 Goal: Learn Netcat Basics (nc, port scanning)
 
 - Learned what netcat is used for;
@@ -69,13 +69,13 @@ Goal: Learn Netcat Basics (nc, port scanning)
 
 ---
 
-###📅 Day 14: Networking Recap
+### 📅 Day 14: Networking Recap
 - Wrote a detailed recap summarizing all key learnings.
 - Highlighted tools, commands, and key takeaways.
 
 ---
 
-##🛠 Tools Used
+## 🛠 Tools Used
 - **Linux terminal** (ifconfig, ip a, ping, traceroute)
 - **Wireshark**
 - **Netcat**
@@ -83,7 +83,7 @@ Goal: Learn Netcat Basics (nc, port scanning)
 
 ---
 
-##📌 Hands-on Practice
+## 📌 Hands-on Practice
 - ✅ Hands-on practice with real network commands
 - ✅ Captured and analyzed live network traffic
 - ✅ Strengthened understanding of IP, MAC, TCP/UDP, and ports
