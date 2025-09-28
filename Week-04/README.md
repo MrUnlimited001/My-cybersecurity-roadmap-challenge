@@ -1,4 +1,4 @@
-# 🖧🔴 Week 4: Web Basics.
+# 🖧 Week 4: Web Basics.
 
 Welcome to Week 2 of my 90-Day Cybersecurity Roadmap Challenge 🚀
 This week focuses on Web Hacking Basics, exploring OWASP TOP 10, trying out TryHackMe OWASP Top 10 room and using Burp to intercept requests.
