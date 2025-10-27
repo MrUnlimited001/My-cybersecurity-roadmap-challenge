@@ -1,5 +1,5 @@
 # 🖧 Week 5: Scanning & Enumeration 
-Welcome to Week 2 of my 90-Day Cybersecurity Roadmap Challenge 🚀
+Welcome to Week 5 of my 90-Day Cybersecurity Roadmap Challenge 🚀
 
 This week focuses on the fundamentals of network scanning and host/service enumeration using Nmap and hands-on TryHackMe labs. I practiced service enumeration techniques (FTP, SSH, SMB), explored brute-force and enumeration strategies, and researched OSINT methods to improve reconnaissance. The week ends with this GitHub-ready recap.
 
